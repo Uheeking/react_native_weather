@@ -22,6 +22,7 @@ const icons = {
   Thunderstorm: 'lightning'
 };
 
+
 export default function App() {
   const [city, setCity] = useState();
   const [days, setDays] = useState([]);
