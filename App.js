@@ -12,7 +12,6 @@ import { Card } from 'react-native-paper';
 
 const { width: SCREEN_WIDTH } = Dimensions.get('window');
 
-const API_KEY = '688d07929ce4506e63cb5e391511a3eb';
 const icons = {
   Clouds: 'cloudy',
   Clear: 'day-sunny',
